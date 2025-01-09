@@ -1,5 +1,5 @@
-# GreatLakes Demo
-This repository contains sample warehouse locations and data to demo the use of the [Geo-FTADS tool's](https://danikam16.wixsite.com/mysite/post/accessing-and-using-the-mcsc-s-interactive-geospatial-decision-support-tool-for-trucking-fleet-decar) data upload and overlay feature. 
+# Great Lakes Demo
+This repository contains sample locations and data for return-to-base logistics facilities in the Great Lakes region to demo the use of the [Geo-FTADS tool's](https://danikam16.wixsite.com/mysite/post/accessing-and-using-the-mcsc-s-interactive-geospatial-decision-support-tool-for-trucking-fleet-decar) data upload and overlay feature. 
 
 Instructions on how to use this demo data on the Geo-FTADS tool can be found in [this blog post](zzz).
 
