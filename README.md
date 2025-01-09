@@ -3,7 +3,7 @@ This repository contains sample warehouse locations and data to demo the use of 
 
 Instructions on how to use this demo data on the Geo-FTADS tool can be found in [this blog post](zzz).
 
-# How to download this repository
+# How to download the files
 
 To download the contents of the repository as a ZIP file, you can use the following URL in your browser: https://github.com/mcsc-impact-climate/GreatLakes_Demo/archive/refs/heads/main.zip 
 
